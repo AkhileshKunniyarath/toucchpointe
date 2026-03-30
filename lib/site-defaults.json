@@ -1,0 +1,402 @@
+{
+  "home_page": {
+    "pageTitle": "Home Page",
+    "heroBadge": "Intelligent Digital Agency",
+    "heroTitleLine1": "We empower",
+    "heroTitleLine2": "Businesses",
+    "heroTitleLine3": "with",
+    "heroHighlight1": "Intelligent",
+    "heroHighlight2": "Digital Solutions",
+    "heroSubtitle": "Transforming brands through data-driven marketing, cutting-edge development, and measurable digital growth.",
+    "stats": [
+      { "value": "200+", "label": "Projects Delivered" },
+      { "value": "98%", "label": "Client Satisfaction" },
+      { "value": "8+", "label": "Years Experience" }
+    ],
+    "capabilitiesSection": {
+      "eyebrow": "What We Do",
+      "title": "Our Capabilities",
+      "description": "End-to-end digital solutions designed to scale your business, from ideation to deployment.",
+      "cards": [
+        {
+          "iconName": "Globe",
+          "title": "Web Development",
+          "desc": "High-performance React and Next.js applications built for infinite scalability and speed.",
+          "href": "/services/web-development",
+          "accent": "#4f8ef7",
+          "iconBg": "bg-blue-500/15",
+          "iconColor": "text-blue-400",
+          "tag": "Core Service"
+        },
+        {
+          "iconName": "Smartphone",
+          "title": "Mobile App Development",
+          "desc": "Native-feel cross-platform experiences that users love to keep in their pockets.",
+          "href": "/services/web-development",
+          "accent": "#a78bfa",
+          "iconBg": "bg-violet-500/15",
+          "iconColor": "text-violet-400",
+          "tag": "iOS & Android"
+        },
+        {
+          "iconName": "Layers",
+          "title": "SaaS Products",
+          "desc": "Multi-tenant architecture design for subscription-based software products.",
+          "href": "/services",
+          "accent": "#22d3ee",
+          "iconBg": "bg-cyan-500/15",
+          "iconColor": "text-cyan-400",
+          "tag": "B2B"
+        },
+        {
+          "iconName": "Server",
+          "title": "Enterprise Platforms",
+          "desc": "Architecture-first web applications designed for high availability and enterprise security compliance.",
+          "href": "/services",
+          "accent": "#34d399",
+          "iconBg": "bg-emerald-500/15",
+          "iconColor": "text-emerald-400",
+          "tag": "B2B"
+        },
+        {
+          "iconName": "BarChart3",
+          "title": "Data Intelligence",
+          "desc": "Transform raw data into actionable strategic insights through advanced analytics dashboards.",
+          "href": "/services/digital-marketing",
+          "accent": "#fb923c",
+          "iconBg": "bg-orange-500/15",
+          "iconColor": "text-orange-400",
+          "tag": "Analytics"
+        },
+        {
+          "iconName": "Zap",
+          "title": "Automation",
+          "desc": "Reduce operational overhead with intelligent workflow automation and AI integration.",
+          "href": "/services/marketing-automation",
+          "accent": "#f472b6",
+          "iconBg": "bg-pink-500/15",
+          "iconColor": "text-pink-400",
+          "tag": "AI-Powered"
+        }
+      ],
+      "stats": [
+        { "value": "200+", "label": "Projects Delivered", "accent": "#4f8ef7" },
+        { "value": "8+", "label": "Years of Experience", "accent": "#34d399" },
+        { "value": "98%", "label": "Client Satisfaction", "accent": "#a78bfa" }
+      ],
+      "ctaLabel": "View All Services"
+    },
+    "excellenceSection": {
+      "badge": "Digital Marketing Excellence",
+      "title": "Innovating Digital Success for a",
+      "highlight": "Connected World",
+      "descriptionOne": "Founded in 2024 with a clear vision, Touchpointe Digital has evolved into a leading digital marketing company in Kerala and beyond. We combine strategic thinking with creative execution to deliver comprehensive digital solutions.",
+      "descriptionTwo": "With expertise spanning digital marketing, web and app development, and marketing automation, we empower businesses to reach their goals with confidence. Our focus on measurable outcomes makes us the trusted partner for companies seeking to make a mark in the digital landscape.",
+      "keyPoints": [
+        "Data-driven decision making",
+        "Customer-focused strategies",
+        "Responsive design principles",
+        "Continuous optimization"
+      ],
+      "stats": [
+        { "label": "Happy Clients", "value": "120+" },
+        { "label": "Years Experience", "value": "9+" },
+        { "label": "Projects Completed", "value": "250+" },
+        { "label": "Team Members", "value": "15+" }
+      ],
+      "primaryCtaLabel": "Learn more about us",
+      "primaryCtaHref": "/about",
+      "secondaryCtaLabel": "Get in touch",
+      "secondaryCtaHref": "/contact"
+    },
+    "toolsSection": {
+      "title": "Our Technology Stack",
+      "subtitle": "Elite digital tools mapped perfectly into our comprehensive 3D ecosystem.",
+      "categories": [
+        {
+          "id": 1,
+          "title": "Marketing Automation",
+          "tools": "Zoho, HubSpot, Mailchimp",
+          "icons": [
+            { "name": "Zoho", "url": "https://cdn.simpleicons.org/zoho/white" },
+            { "name": "HubSpot", "url": "https://cdn.simpleicons.org/hubspot/white" },
+            { "name": "Mailchimp", "url": "https://cdn.simpleicons.org/mailchimp/white" }
+          ],
+          "bgGradient": "from-blue-600/40 via-indigo-900/60 to-[#05051a]",
+          "glowColor": "bg-blue-500",
+          "stat": "14 ETH",
+          "likes": "50k",
+          "creator": "Marketing Core"
+        },
+        {
+          "id": 2,
+          "title": "Analytics & Data",
+          "tools": "Google Analytics, Hotjar",
+          "icons": [
+            { "name": "Google Analytics", "url": "https://cdn.simpleicons.org/googleanalytics/white" },
+            { "name": "Hotjar", "url": "https://cdn.simpleicons.org/hotjar/white" },
+            { "name": "Google Search Console", "url": "https://cdn.simpleicons.org/googlesearchconsole/white" }
+          ],
+          "bgGradient": "from-cyan-500/40 via-teal-900/60 to-[#05051a]",
+          "glowColor": "bg-cyan-400",
+          "stat": "8.5 ETH",
+          "likes": "32k",
+          "creator": "Data Matrix"
+        },
+        {
+          "id": 3,
+          "title": "Advertising & Social",
+          "tools": "Google Ads, Meta, Hootsuite",
+          "icons": [
+            { "name": "Google Ads", "url": "https://cdn.simpleicons.org/googleads/white" },
+            { "name": "Meta", "url": "https://cdn.simpleicons.org/meta/white" },
+            { "name": "Hootsuite", "url": "https://cdn.simpleicons.org/hootsuite/white" }
+          ],
+          "bgGradient": "from-fuchsia-600/40 via-purple-900/60 to-[#05051a]",
+          "glowColor": "bg-fuchsia-500",
+          "stat": "12 ETH",
+          "likes": "45k",
+          "creator": "Social Engine"
+        },
+        {
+          "id": 4,
+          "title": "Creative & Web",
+          "tools": "WordPress, Webflow, Figma",
+          "icons": [
+            { "name": "WordPress", "url": "https://cdn.simpleicons.org/wordpress/white" },
+            { "name": "Webflow", "url": "https://cdn.simpleicons.org/webflow/white" },
+            { "name": "Figma", "url": "https://cdn.simpleicons.org/figma/white" }
+          ],
+          "bgGradient": "from-amber-600/40 via-orange-900/60 to-[#05051a]",
+          "glowColor": "bg-amber-500",
+          "stat": "10 ETH",
+          "likes": "38k",
+          "creator": "Design Vault"
+        },
+        {
+          "id": 5,
+          "title": "Business Automation",
+          "tools": "Trello, Notion, Zapier",
+          "icons": [
+            { "name": "Trello", "url": "https://cdn.simpleicons.org/trello/white" },
+            { "name": "Notion", "url": "https://cdn.simpleicons.org/notion/white" },
+            { "name": "Zapier", "url": "https://cdn.simpleicons.org/zapier/white" }
+          ],
+          "bgGradient": "from-emerald-600/40 via-green-900/60 to-[#05051a]",
+          "glowColor": "bg-emerald-400",
+          "stat": "15 ETH",
+          "likes": "60k",
+          "creator": "Ops Protocol"
+        }
+      ]
+    },
+    "pricingSection": {
+      "badge": "Pricing Plans",
+      "title": "Transparent Pricing for",
+      "highlight": "Your Growth",
+      "subtitle": "Choose a plan that works best for your business goals and budget. All plans are flexible and can be customized.",
+      "plans": [
+        {
+          "id": "starter",
+          "name": "Starter Plan",
+          "tagline": "Essential digital presence. Social media basics. SEO essentials.",
+          "price": "₹15,000",
+          "rawPrice": 15000,
+          "period": "/month",
+          "features": [
+            { "text": "Social Media Management - 2-3 posts/month" },
+            { "text": "Social Media Advertising - Basic ad setup & management" },
+            { "text": "SEO Essentials - On-page optimization + 1 blog post/month" },
+            { "text": "Google Business Profile Optimization" },
+            { "text": "Website Maintenance - 1 minor update per month" },
+            { "text": "Basic Branding Support - Logo tweaks & minor graphics" },
+            { "text": "Marketing Automation - Lead capture form setup" }
+          ],
+          "bestFor": "Small businesses & startups looking to establish their brand.",
+          "cta": "Choose this plan",
+          "ctaStyle": "outline",
+          "iconBg": "from-blue-500/20 to-cyan-500/20",
+          "glowColor": "rgba(59,130,246,0.25)",
+          "borderColor": "rgba(59,130,246,0.25)",
+          "iconName": "Package"
+        },
+        {
+          "id": "growth",
+          "name": "Growth Plan",
+          "tagline": "Scale your marketing. Advanced SEO. Conversion tracking.",
+          "price": "₹30,000",
+          "rawPrice": 30000,
+          "period": "/month",
+          "features": [
+            { "text": "Social Media Management - 3-6 posts/month" },
+            { "text": "Social Media Advertising - Conversion tracking" },
+            { "text": "SEO Growth - On-page + off-page, 2 blogs/month" },
+            { "text": "Google Business Profile - Engagement strategy" },
+            { "text": "Website Maintenance - 2 updates per month" },
+            { "text": "Creative Branding - Custom graphics & assets" },
+            { "text": "Marketing Automation & CRM Support" },
+            { "text": "RPA & MarTech Support - Basic integrations" }
+          ],
+          "bestFor": "Growing brands needing regular content and lead generation.",
+          "popular": true,
+          "cta": "Choose this plan",
+          "ctaStyle": "gradient",
+          "iconBg": "from-purple-500/20 to-pink-500/20",
+          "glowColor": "rgba(147,51,234,0.30)",
+          "borderColor": "rgba(147,51,234,0.35)",
+          "iconName": "Zap"
+        },
+        {
+          "id": "scale",
+          "name": "Scale Plan",
+          "tagline": "Full-fledged marketing & automation. Video production.",
+          "price": "₹50,000",
+          "rawPrice": 50000,
+          "period": "/month",
+          "features": [
+            { "text": "Social Media Management - 6-10 posts/month" },
+            { "text": "Social Media Advertising - Full-funnel management" },
+            { "text": "SEO Dominance - Link building, 3-4 blogs/month" },
+            { "text": "Google Business Profile - Local SEO boost" },
+            { "text": "Website Maintenance - 4 updates per month" },
+            { "text": "Advanced Branding & Video Content" },
+            { "text": "Marketing Automation & RPA - Chatbot setup" },
+            { "text": "Creative Video - 1 promo video/quarter" },
+            { "text": "Web & App Support - Landing pages & updates" }
+          ],
+          "bestFor": "Businesses that want a full-fledged solution.",
+          "cta": "Contact us",
+          "ctaStyle": "dark",
+          "iconBg": "from-amber-500/20 to-orange-500/20",
+          "glowColor": "rgba(245,158,11,0.20)",
+          "borderColor": "rgba(245,158,11,0.25)",
+          "iconName": "Sparkles"
+        }
+      ],
+      "projectPricingTitle": "Project-Based Pricing",
+      "projectPricingSubtitle": "For businesses that need one-time solutions.",
+      "projectBasedServices": [
+        { "service": "Website Design & Development", "pricing": "Starting at ₹40,000 (Basic) / ₹80,000 (E-commerce)" },
+        { "service": "SEO Audit & Strategy", "pricing": "₹15,000 per audit" },
+        { "service": "Social Media Ad Campaign Setup", "pricing": "₹10,000 per campaign" },
+        { "service": "Branding & Logo Design", "pricing": "₹20,000 for full branding package" },
+        { "service": "Creative Video Production", "pricing": "Starting at ₹30,000" },
+        { "service": "Marketing Automation & CRM Setup", "pricing": "₹25,000 for standard setup" },
+        { "service": "MarTech & RPA Implementation", "pricing": "Custom pricing based on tools & complexity" }
+      ],
+      "pricingNotes": [
+        "Ad spend is NOT included in any package and will be borne by the client.",
+        "Website maintenance covers minor updates; major changes will be quoted separately.",
+        "All prices are exclusive of GST (if applicable)."
+      ]
+    }
+  },
+  "company_page": {
+    "pageTitle": "Company Page",
+    "heroTitle": "Empowering Enterprises.<br />Accelerating Business.",
+    "heroSubtitle": "Born from engineering. Driven by results. A technology partner that delivers institutional-grade infrastructure and rapid growth solutions.",
+    "stats": [
+      { "label": "Years of Excellence", "value": "14+" },
+      { "label": "Projects Handled", "value": "250+" },
+      { "label": "Continents Served", "value": "4+" },
+      { "label": "Client Retention", "value": "100%" }
+    ],
+    "missionQuote": "We exist to transform the way enterprises architect, build, and scale technology - partnering with organizations to accelerate digital transformation while maintaining operational excellence.",
+    "dualFocus": [
+      {
+        "tag": "Enterprise",
+        "title": "Mission-Critical Infrastructure",
+        "accent": "#60a5fa",
+        "accentBg": "rgba(96,165,250,0.07)",
+        "accentBorder": "1px solid rgba(96,165,250,0.2)",
+        "items": [
+          "Institutional-grade infrastructure",
+          "SOC2 compliance & certifications",
+          "Legacy modernization",
+          "24/7 operational support",
+          "Global security standards"
+        ]
+      },
+      {
+        "tag": "Business",
+        "title": "Growth & Performance",
+        "accent": "#38bdf8",
+        "accentBg": "rgba(56,189,248,0.07)",
+        "accentBorder": "1px solid rgba(56,189,248,0.2)",
+        "items": [
+          "Rapid MVP development",
+          "Conversion rate optimization",
+          "Automated workflows",
+          "Data-driven campaigns",
+          "High-velocity deployment"
+        ]
+      }
+    ],
+    "coreValues": [
+      {
+        "iconName": "Zap",
+        "title": "Unrelenting Velocity",
+        "description": "Speed is a feature. We choose prototypes over powerpoints and execution over endless debate.",
+        "accent": "#ff7b54",
+        "accentBg": "rgba(255,123,84,0.08)",
+        "accentBorder": "rgba(255,123,84,0.2)"
+      },
+      {
+        "iconName": "Lightbulb",
+        "title": "Open-Source Culture",
+        "description": "Knowledge multiplies when shared. We operate with zero silos and absolute candor across all levels.",
+        "accent": "#ffb347",
+        "accentBg": "rgba(255,179,71,0.08)",
+        "accentBorder": "rgba(255,179,71,0.2)"
+      },
+      {
+        "iconName": "Heart",
+        "title": "The Human Algorithm",
+        "description": "We believe technology should amplify human intent, not replace it. Empathy is part of our code.",
+        "accent": "#f06292",
+        "accentBg": "rgba(240,98,146,0.08)",
+        "accentBorder": "rgba(240,98,146,0.2)"
+      },
+      {
+        "iconName": "Shield",
+        "title": "Radical Integrity",
+        "description": "Trust is not compliance; it is character. We do the right thing even when no one is auditing the logs.",
+        "accent": "#5a7bff",
+        "accentBg": "rgba(90,123,255,0.08)",
+        "accentBorder": "rgba(90,123,255,0.2)"
+      },
+      {
+        "iconName": "Target",
+        "title": "Automate to Elevate",
+        "description": "We refuse to solve the same problem twice manually. We build systems to free our minds for the impossible.",
+        "accent": "#b87fff",
+        "accentBg": "rgba(184,127,255,0.08)",
+        "accentBorder": "rgba(184,127,255,0.2)"
+      },
+      {
+        "iconName": "Users",
+        "title": "Human-Centric Design",
+        "description": "Every product we build is designed for the people who use it. User feedback drives everything we do.",
+        "accent": "#3ecf8e",
+        "accentBg": "rgba(62,207,142,0.08)",
+        "accentBorder": "rgba(62,207,142,0.2)"
+      }
+    ],
+    "team": [
+      { "name": "Rahul Menon", "role": "Founder & CEO", "expertise": "Enterprise Architecture", "initials": "RM" },
+      { "name": "Priya Sharma", "role": "CTO", "expertise": "Cloud Infrastructure", "initials": "PS" },
+      { "name": "Ajeesh Kumar", "role": "Head of Delivery", "expertise": "Project Excellence", "initials": "AK" },
+      { "name": "Neha Desai", "role": "VP Product", "expertise": "Product Strategy", "initials": "ND" }
+    ],
+    "careersSection": {
+      "title": "Join Our Team",
+      "description": "We are always looking for talented engineers, designers, and strategists passionate about solving complex problems. Help us build the future of digital engineering.",
+      "buttonLabel": "Explore Careers"
+    },
+    "finalCta": {
+      "title": "Ready to transform?",
+      "description": "Whether you are an Enterprise or a Business, we have the blueprint to accelerate your digital journey.",
+      "buttonLabel": "Start Your Journey"
+    }
+  }
+}
