@@ -53,7 +53,7 @@ const IntelligentAgentPage = () => {
       y: 0,
       opacity: 1,
       scale: 1,
-      transition: { duration: 0.8, ease: [0.22, 1, 0.36, 1] },
+      transition: { duration: 0.8, ease: [0.22, 1, 0.36, 1] as const },
     },
   };
 
@@ -61,7 +61,7 @@ const IntelligentAgentPage = () => {
     initial: { y: 0 },
     animate: {
       y: [-8, 8, -8],
-      transition: { duration: 4, repeat: Infinity, ease: "easeInOut" },
+      transition: { duration: 4, repeat: Infinity, ease: "easeInOut" as const },
     },
   };
 

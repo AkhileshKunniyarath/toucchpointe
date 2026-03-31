@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 const { ensureBackendReady } = require("../../../lib/server/ensure-backend.cjs");
 const { me } = require("../../../lib/server/controllers/auth.controller.cjs");
 const {
